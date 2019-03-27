@@ -1,3 +1,4 @@
 Hi i am adding this text from github directly to see working of pull
 trying to get logic of fetch and merge
 Hi i am in dev  branch
+hi i am in master
