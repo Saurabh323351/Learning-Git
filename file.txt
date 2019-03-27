@@ -1,1 +1,2 @@
 Hi i am adding this text from github directly to see working of pull
+trying to get logic of fetch and merge
